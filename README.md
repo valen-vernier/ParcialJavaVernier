@@ -2,7 +2,7 @@
 
 Aplicación de consola en Java para gestionar una biblioteca, con persistencia en base de datos H2.
 
-## Requisitos
+## Requisitos para ejecutar
 
 - Java JDK 11 o superior
 - Gradle 7.0 o superior
