@@ -1,0 +1,26 @@
+2025-06-03 12:36:03.003 [main] INFO  com.biblioteca.Main - Iniciando aplicación de gestión de biblioteca
+2025-06-03 12:37:09.557 [main] INFO  com.biblioteca.dao.AutorDAOImpl - Autor guardado: Autor{id=1, nombre='juan', nacionalidad='peruano'}
+2025-06-03 12:37:35.402 [main] INFO  com.biblioteca.dao.AutorDAOImpl - Autor actualizado: Autor{id=1, nombre='juan', nacionalidad='argentino'}
+2025-06-03 12:37:54.279 [main] INFO  com.biblioteca.dao.AutorDAOImpl - Autor eliminado con ID: 1
+2025-06-03 12:38:33.139 [main] INFO  com.biblioteca.dao.AutorDAOImpl - Autor guardado: Autor{id=2, nombre='juan', nacionalidad='peruano'}
+2025-06-03 12:43:09.467 [main] INFO  com.biblioteca.dao.LibroDAOImpl - Libro guardado: Libro{id=1, titulo='caperucita', isbn='111', fechaPublicacion=2025-06-03, autorId=2}
+2025-06-03 12:44:11.391 [main] INFO  com.biblioteca.dao.LibroDAOImpl - Libro actualizado: Libro{id=1, titulo='caperucita', isbn='115', fechaPublicacion=2025-06-03, autorId=2}
+2025-06-03 12:44:22.057 [main] INFO  com.biblioteca.dao.LibroDAOImpl - Libro eliminado con ID: 1
+2025-06-03 12:45:43.560 [main] INFO  com.biblioteca.Main - Aplicación finalizada
+2025-06-03 12:57:14.885 [main] INFO  com.biblioteca.Main - Iniciando aplicación de gestión de biblioteca
+2025-06-03 12:57:22.157 [main] INFO  com.biblioteca.Main - Aplicación finalizada
+2025-06-03 13:38:11.899 [main] INFO  com.biblioteca.Main - Iniciando aplicación de gestión de biblioteca
+2025-06-03 13:39:27.681 [main] INFO  com.biblioteca.dao.AutorDAOImpl - Autor guardado: Autor{id=1, nombre='juan', nacionalidad='argentino'}
+2025-06-03 13:40:00.958 [main] INFO  com.biblioteca.dao.LibroDAOImpl - Libro guardado: Libro{id=1, titulo='mendoza', isbn='111', fechaPublicacion=2025-03-24, autorId=1}
+2025-06-03 13:40:14.472 [main] INFO  com.biblioteca.Main - Aplicación finalizada
+2025-06-03 13:40:18.945 [main] INFO  com.biblioteca.Main - Iniciando aplicación de gestión de biblioteca
+2025-06-03 13:40:37.192 [main] INFO  com.biblioteca.Main - Aplicación finalizada
+2025-06-03 14:00:28.161 [main] INFO  com.biblioteca.Main - Iniciando aplicación de gestión de biblioteca
+2025-06-03 14:00:30.867 [main] INFO  com.biblioteca.Main - Aplicación finalizada
+2025-06-03 14:04:19.775 [main] INFO  com.biblioteca.Main - Iniciando aplicación de gestión de biblioteca
+2025-06-03 14:20:51.896 [main] INFO  com.biblioteca.Main - Iniciando aplicación de gestión de biblioteca
+2025-06-03 14:21:39.441 [main] INFO  com.biblioteca.Main - Aplicación finalizada
+2025-06-03 18:01:57.912 [main] INFO  com.biblioteca.Main - Iniciando aplicación de gestión de biblioteca
+2025-06-03 18:02:41.771 [main] INFO  com.biblioteca.dao.LibroDAOImpl - Libro eliminado con ID: 1
+2025-06-03 18:03:00.160 [main] INFO  com.biblioteca.dao.AutorDAOImpl - Autor eliminado con ID: 1
+2025-06-03 18:03:31.077 [main] INFO  com.biblioteca.Main - Aplicación finalizada
